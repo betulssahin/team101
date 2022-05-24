@@ -19,6 +19,7 @@
 - İki kişilik oyun oynayanlar
 - 15-40 yaş arası
 # Product Backlog URL
+[backlog] (https://trello.com/invite/b/Vbv5tG6B/0ead62cae8e51b6e371525a5e4276db3/bootcamp-101)
 
 # Sprint 1
 - **Sprint Notları**: 
@@ -35,9 +36,9 @@
 
 # Sprint 2
 - **Sprint Notları**:
-- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Sprint içinde tamamlanması tahmin edilen puan**: 200 puan
 - **Puan tamamlama mantığı**:
-- **Backlog düzeni ve story seçimleri**:
+- **Backlog düzeni ve story seçimleri**: 
 - **Daily Scrum**: Daily scrum'lar zaman yetersizliği ve uyuşmaması sebebiyle whatsapp uygulaması üzerinden yapılmıştır. 
  [Toplantıların ekran görüntüleri;](https://drive.google.com/drive/folders/1arC0Vjo9Rs4pA3WZRDr-ohEWxfXkCe2R?usp=sharing)
 - **Ürün durumu**: Ekran Görüntüleri: 
