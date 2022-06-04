@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a7ff730a5d120924a9f7c42e45765449
+guid: ba458c1184541476091009c1abe64a66
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,8 +8,7 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontNames:
-  - Zilla Slab
+  fontNames: []
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
