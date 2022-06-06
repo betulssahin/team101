@@ -6,7 +6,7 @@
 - Tolga Merdan: Developer
 - Gökçe Dağkılıç: Developer
 # Ürün İsmi
-- Ürün ismine en son karar verilmesi planlanmıştır
+- Moan&Kita
 # Ürün Açıklaması
 - Biri kadın diğeri erkek olan iki savaşçı kahramanımızın yer altı zindanlarının karanlık ve zorlu yollarını aşarak birbirlerine kavuşma hikayesini anlatan bir oyun.
 # Ürün Özellikleri
@@ -50,3 +50,22 @@
 - - Belirlenen algoritmalar yardımıyla kodlama yapılmaya başlanmalı
 - - Gerekli geri bildirimlerin zamanında verilmesine özen gösterilmeli
 - - Sprint başında belirlenen puanların tamamlanması için daha fazla çalışılmalıdır
+
+# Sprint 3
+- **Sprint Notarı**:
+- **Sprint içinde tamamanması tahmin edilen puan**: 395 puan
+- **Puan tamamlama mantığı**: görevlerin zorluları ve alacağı zaman düşünülerek 100 üzerinden puan dağılımı yapıldı.
+- **Backlog düzeni ve story seçimleri**: Backlog'da yapılacak görevler önem sırasına göre sıralandı.
+- **Daily Scrum**: Daily scrum'lar zaman yetersizliği ve uyuşmaması sebebiyle whatsapp uygulaması üzerinden yapılmıştır. 
+- [Toplantıların ekran görüntüleri:](https://drive.google.com/drive/folders/1Ke3gxwdw0u2w1qlHPzE-Aqgya0zMSbvZ?usp=sharing)
+- **Ürün durumu**: Ürünün teslimi için son düzeltmeleri yapılıyor. Ekran Görüntüleri:
+- ![giris](https://user-images.githubusercontent.com/95382941/172234356-763df7cc-760b-49d8-a971-4e2cb526f3ca.PNG)
+- ![level 1](https://user-images.githubusercontent.com/95382941/172234457-074d538b-c879-4154-92cb-00a12c1856ef.PNG)
+- ![level 2](https://user-images.githubusercontent.com/95382941/172234570-51057abc-86ae-4d0f-b4b2-14e024a9213d.PNG)
+
+- **Sprint Review**: Alınan Kararlar: Oyunla ilgili yapılacak tüm işler üzerinde duruldu ve belirli bir düzene konuldu. Görev dağılımı yapıldı. Oyunun son haline gelmesi için gerekenlerin yapılmasına karar verildi. Sprint Review Katılımcıları: Betül Şahin, Tolga Merdan, Gökçe Dağkılıç
+- **Sprint Retrospective**:
+- - Ekibin motivasyonunu artıracak adımlar atılmalıydı
+- - Ekip içinde daha etkili iletişim sağlanmalı
+- - Görevlere verilen zamanlar verimli kullanılıp. Görevler zamanında bitirlmeliydi.
+- - Bir önceki sprint'te aldığımız puan arttığı için kutlama yapıldı.  
