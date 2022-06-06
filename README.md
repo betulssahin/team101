@@ -50,3 +50,16 @@
 - - Belirlenen algoritmalar yardımıyla kodlama yapılmaya başlanmalı
 - - Gerekli geri bildirimlerin zamanında verilmesine özen gösterilmeli
 - - Sprint başında belirlenen puanların tamamlanması için daha fazla çalışılmalıdır
+
+# Sprint 3
+- **Sprint Notarı**:
+- **Sprint içinde tamamanması tahmin edilen puan**:
+- **Puan tamamlama mantığı**:
+- **Backlog Scrum**: 
+- [Toplantıların ekran görüntüleri:]
+- **Ürün durumu**: Ekran Görüntüleri:
+
+- **Sprint Review**: Aınan Kararlar: Sprint Review Katılımcıları: Betül Şahin, Tolga Merdan, Gökçe Dağkılıç
+- **Spprint Retrospective**:
+- - 
+- 
