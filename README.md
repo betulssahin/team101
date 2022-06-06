@@ -59,7 +59,7 @@
 - **Daily Scrum**: Daily scrum'lar zaman yetersizliği ve uyuşmaması sebebiyle whatsapp uygulaması üzerinden yapılmıştır. 
 - [Toplantıların ekran görüntüleri:](https://drive.google.com/drive/folders/1Ke3gxwdw0u2w1qlHPzE-Aqgya0zMSbvZ?usp=sharing)
 - **Ürün durumu**: Ürünün teslimi için son düzeltmeleri yapılıyor. Ekran Görüntüleri:
-- ![giris](https://user-images.githubusercontent.com/95382941/172234356-763df7cc-760b-49d8-a971-4e2cb526f3ca.PNG)
+- ![start](https://user-images.githubusercontent.com/95382941/172239257-ffd34eca-3072-4aa5-979c-a1d66eb1cbd8.PNG)
 - ![level 1](https://user-images.githubusercontent.com/95382941/172234457-074d538b-c879-4154-92cb-00a12c1856ef.PNG)
 - ![level 2](https://user-images.githubusercontent.com/95382941/172234570-51057abc-86ae-4d0f-b4b2-14e024a9213d.PNG)
 
