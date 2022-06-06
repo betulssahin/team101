@@ -62,6 +62,7 @@
 - ![start](https://user-images.githubusercontent.com/95382941/172239257-ffd34eca-3072-4aa5-979c-a1d66eb1cbd8.PNG)
 - ![level 1](https://user-images.githubusercontent.com/95382941/172234457-074d538b-c879-4154-92cb-00a12c1856ef.PNG)
 - ![level 2](https://user-images.githubusercontent.com/95382941/172234570-51057abc-86ae-4d0f-b4b2-14e024a9213d.PNG)
+- ![finish](https://user-images.githubusercontent.com/95382941/172239325-fbf49f61-d0c4-43da-88d3-837e57803efd.PNG)
 
 - **Sprint Review**: Alınan Kararlar: Oyunla ilgili yapılacak tüm işler üzerinde duruldu ve belirli bir düzene konuldu. Görev dağılımı yapıldı. Oyunun son haline gelmesi için gerekenlerin yapılmasına karar verildi. Sprint Review Katılımcıları: Betül Şahin, Tolga Merdan, Gökçe Dağkılıç
 - **Sprint Retrospective**:
