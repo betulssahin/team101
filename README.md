@@ -6,7 +6,7 @@
 - Tolga Merdan: Developer
 - Gökçe Dağkılıç: Developer
 # Ürün İsmi
-- Ürün ismine en son karar verilmesi planlanmıştır
+- Moan&Kita
 # Ürün Açıklaması
 - Biri kadın diğeri erkek olan iki savaşçı kahramanımızın yer altı zindanlarının karanlık ve zorlu yollarını aşarak birbirlerine kavuşma hikayesini anlatan bir oyun.
 # Ürün Özellikleri
@@ -53,13 +53,17 @@
 
 # Sprint 3
 - **Sprint Notarı**:
-- **Sprint içinde tamamanması tahmin edilen puan**:
-- **Puan tamamlama mantığı**:
-- **Backlog Scrum**: 
-- [Toplantıların ekran görüntüleri:]
+- **Sprint içinde tamamanması tahmin edilen puan**: 395 puan
+- **Puan tamamlama mantığı**: görevlerin zorluları ve alacağı zaman düşünülerek 100 üzerinden puan dağılımı yapıldı.
+- **Backlog düzeni ve story seçimleri**: Backlog'da yapılacak görevler önem sırasına göre sıralandı.
+- **Daily Scrum**: Daily scrum'lar zaman yetersizliği ve uyuşmaması sebebiyle whatsapp uygulaması üzerinden yapılmıştır. 
+- [Toplantıların ekran görüntüleri:](https://drive.google.com/drive/folders/1Ke3gxwdw0u2w1qlHPzE-Aqgya0zMSbvZ?usp=sharing)
 - **Ürün durumu**: Ekran Görüntüleri:
+- ![giris] (
 
-- **Sprint Review**: Aınan Kararlar: Sprint Review Katılımcıları: Betül Şahin, Tolga Merdan, Gökçe Dağkılıç
-- **Spprint Retrospective**:
-- - 
-- 
+- **Sprint Review**: Alınan Kararlar: Oyunla ilgili yapılacak tüm işler üzerinde duruldu ve belirli bir düzene konuldu. Görev dağılımı yapıldı. Oyunun son haline gelmesi için gerekenlerin yapılmasına karar verildi. Sprint Review Katılımcıları: Betül Şahin, Tolga Merdan, Gökçe Dağkılıç
+- **Sprint Retrospective**:
+- - Ekibin motivasyonunu artıracak adımlar atılmalıydı
+- - Ekip içinde daha etkili iletişim sağlanmalı
+- - Görevlere verilen zamanlar verimli kullanılıp. Görevler zamanında bitirlmeliydi.
+- - Bir önceki sprint'te aldığımız puan arttığı için kutlama yapıldı.  
