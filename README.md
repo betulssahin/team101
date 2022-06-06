@@ -59,7 +59,8 @@
 - **Daily Scrum**: Daily scrum'lar zaman yetersizliği ve uyuşmaması sebebiyle whatsapp uygulaması üzerinden yapılmıştır. 
 - [Toplantıların ekran görüntüleri:](https://drive.google.com/drive/folders/1Ke3gxwdw0u2w1qlHPzE-Aqgya0zMSbvZ?usp=sharing)
 - **Ürün durumu**: Ekran Görüntüleri:
-- ![giris] (
+- ![giris](https://user-images.githubusercontent.com/95382941/172234356-763df7cc-760b-49d8-a971-4e2cb526f3ca.PNG)
+- 
 
 - **Sprint Review**: Alınan Kararlar: Oyunla ilgili yapılacak tüm işler üzerinde duruldu ve belirli bir düzene konuldu. Görev dağılımı yapıldı. Oyunun son haline gelmesi için gerekenlerin yapılmasına karar verildi. Sprint Review Katılımcıları: Betül Şahin, Tolga Merdan, Gökçe Dağkılıç
 - **Sprint Retrospective**:
