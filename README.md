@@ -8,7 +8,9 @@
 # Ürün İsmi
 - Moan&Kita
 # Ürün Açıklaması
-- Biri kadın diğeri erkek olan iki savaşçı kahramanımızın yer altı zindanlarının karanlık ve zorlu yollarını aşarak birbirlerine kavuşma hikayesini anlatan bir oyun.
+- Biri kadın diğeri erkek olan iki savaşçı kahramanımızın yeraltı zindanlarının karanlık ve zorlu yollarını aşarak birbirlerine kavuşma hikayesini anlatan 2D bir oyun.
+- **Ürün ile ilgili Notlar**
+- -Ürün iki kişilik/bölünmüş ekran şeklinde düşünülmüştür. Mevcut üründe sadece tek bir karakterin oynanışı örnek olarak verilmiştir.
 # Ürün Özellikleri
 - 2D
 - Bölünmüş ekran özelliği 
