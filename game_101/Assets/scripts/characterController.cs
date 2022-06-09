@@ -58,9 +58,9 @@ public class characterController : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionEnter2D(Collision2D other)
     {
-       if(gameObject.CompareTag("ground"))   //other ??
+       if(other.gameObject.CompareTag("ground"))   //other ??
         {
             grounded = true;
 
