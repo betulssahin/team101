@@ -2,8 +2,8 @@
 ##### Takım 101
 # Ürün İle İlgili Bilgiler
 # Takım Elemanları
-- Betül Şahin: Scrum Master
-- Tolga Merdan: Developer
+- Betül Şahin: Scrum Master, Developer, Designer 
+- Tolga Merdan: Developer 
 - Gökçe Dağkılıç: Developer
 # Ürün İsmi
 - Moan&Kita
